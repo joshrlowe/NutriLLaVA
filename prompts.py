@@ -26,7 +26,7 @@ When contemplating what the uer can prepare, only consider the ingredients ident
 When suggesting a dish, suggest the name of the dish and explain why it suits the user's dietary demands.
 
 Example Output:
-<Suggested Dish> - <Suggested Dish> is high in protein, low-calorie, and can be made with all ingredients pictured.
+<Suggested Dish> is high in protein, low-calorie, and can be made with all ingredients pictured.
 
 Write your response given the listed ingredients and provided goals. Do not hallucinate.
 """
